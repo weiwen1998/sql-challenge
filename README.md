@@ -1,10 +1,10 @@
-## sql-challenge
+# sql-challenge
 
-# For the data modelling part, an ERD was created to differentiate between the tables and the primary and foreign keys.
+## For the data modelling part, an ERD was created to differentiate between the tables and the primary and foreign keys.
 
-# For the data engineering part, six tables were created, avoiding any null values and indicating which of them are part of a string, integer or a date.
+## For the data engineering part, six tables were created, avoiding any null values and indicating which of them are part of a string, integer or a date.
 
-# For the data analysis part, the answers to the questions are described as follows:
+## For the data analysis part, the answers to the questions are described as follows:
 
 #Q1 - a full outer join between the employees and salaries table to match the employees' salaries.
 
